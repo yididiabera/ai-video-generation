@@ -1,4 +1,4 @@
-# Long-Form AI Video Generation Internship Project
+# AI Video Generation
 
 This repository documents my learning journey and project work as an intern exploring the field of long-form AI video generation. The project is structured as a series of tasks, progressing from fundamental concepts of data representation to building a controllable video synthesis pipeline and implementing a generative model from its core principles.
 
