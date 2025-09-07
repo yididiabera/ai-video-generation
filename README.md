@@ -24,7 +24,7 @@ The project is divided into three main tasks, each building upon the last.
 
 This task involves creating a workflow in Google Colab that will:
 1.  **Input:** Accept a user-drawn sketch and a text description.
-2.  **Stylization:** Generate a stylized image from the sketch using **ControlNet** for structural guidance and **LoRA** for artistic style (e.g., anime, comic).
+2.  **Stylization:** Generate a stylized image from the sketch using **ControlNet** for structural guidance and **LoRA** for artistic style (pokemon).
 3.  **Animation:** Animate the stylized image into a 3-5 second video clip using a frame-by-frame generation method.
 4.  **Identity Control:** Maintain consistent character identity across all frames, using techniques like **IP-Adapter**
 5.  **Dynamic Control:** Allow for scene adaptation by changing the text prompt mid-generation to alter the environment (e.g., from a "sunny forest" to a "stormy night").
